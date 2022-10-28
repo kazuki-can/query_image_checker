@@ -1,0 +1,11 @@
+C:\Users\orixs\display_query_image\display_query_image\bin\Debug\display_query_image.exe.config
+C:\Users\orixs\display_query_image\display_query_image\bin\Debug\display_query_image.exe
+C:\Users\orixs\display_query_image\display_query_image\bin\Debug\display_query_image.pdb
+C:\Users\orixs\display_query_image\display_query_image\obj\Debug\display_query_image.csproj.AssemblyReference.cache
+C:\Users\orixs\display_query_image\display_query_image\obj\Debug\display_query_image.csproj.SuggestedBindingRedirects.cache
+C:\Users\orixs\display_query_image\display_query_image\obj\Debug\display_query_image.Form1.resources
+C:\Users\orixs\display_query_image\display_query_image\obj\Debug\display_query_image.Properties.Resources.resources
+C:\Users\orixs\display_query_image\display_query_image\obj\Debug\display_query_image.csproj.GenerateResource.cache
+C:\Users\orixs\display_query_image\display_query_image\obj\Debug\display_query_image.csproj.CoreCompileInputs.cache
+C:\Users\orixs\display_query_image\display_query_image\obj\Debug\display_query_image.exe
+C:\Users\orixs\display_query_image\display_query_image\obj\Debug\display_query_image.pdb
